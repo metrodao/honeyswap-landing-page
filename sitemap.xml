@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://app.honeyswap.org</loc>
+  <loc>https://honeyswap.org/</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
@@ -21,27 +21,27 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.orgsetup-wallet</loc>
+  <loc>https://honeyswap.org/setup-wallet</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.orgxdai-bridges</loc>
+  <loc>https://honeyswap.org/xdai-bridges</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.orgliquidity-pool</loc>
+  <loc>https://honeyswap.org/liquidity-pool</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.orgyield-farming</loc>
+  <loc>https://honeyswap.org/yield-farming</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.orgxdai-ramp</loc>
+  <loc>https://honeyswap.org/xdai-ramp</loc>
   <lastmod>2021-01-13T14:15:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
