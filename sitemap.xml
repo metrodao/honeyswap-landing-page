@@ -4,45 +4,37 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://honeyswap.org/</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://app.honeyswap.org/</loc>
-  <lastmod>2021-01-13T14:16:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://info.honeyswap.org/</loc>
-  <lastmod>2021-01-13T14:17:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://honeyswap.org/setup-wallet</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://honeyswap.org/xdai-bridges</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://honeyswap.org/liquidity-pool</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://honeyswap.org/yield-farming</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://honeyswap.org/xdai-ramp</loc>
-  <lastmod>2021-01-13T14:15:18+00:00</lastmod>
+  <lastmod>2021-01-15T12:42:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
