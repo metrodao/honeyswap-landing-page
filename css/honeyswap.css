@@ -1,3 +1,13 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
@@ -7,7 +17,7 @@
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   grid-row-gap: 16px;
-  grid-column-gap: 16px;
+  grid-column-gap: 0px;
 }
 
 h1 {
@@ -202,7 +212,6 @@ p {
 }
 
 .mid-section {
-  margin-bottom: 30px;
   padding: 94px 78px;
   border-radius: 12px;
 }
@@ -314,7 +323,9 @@ p {
 .card {
   padding-right: 30px;
   padding-left: 30px;
+  min-width:10vw;
 }
+
 
 .icon-container {
   width: 100%;
@@ -480,6 +491,58 @@ p {
   margin-bottom: -30px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.partners-heading{
+	max-width: 1247px;
+	width:100%;
+    margin: auto;
+
+	font-size: 1rem;
+	text-decoration: none;
+	text-align:center;
+	color: #222;
+	padding-top:30px;
+}
+
+.partners-container {
+  max-width: 1247px;
+  min-width: 200px;
+  margin:auto;
+  padding-top: 10vh;
+  margin-top:50px;
+}
+
+.partner_icon-container {
+	width: 100%;
+    height: 100%; 
+    padding: 1vw;
+    border-radius: 8px;
+    background-color: #fff;
+	text-align:center;
+}
+
+.partners-flexbox{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	line-height: 1.4em;
+  	margin-top: 18px;
+}
+
+.partners-block {
+	width: 100%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.image-15{
+	border-radius:20%;
+	max-width: 100%;
+    max-height: 5vw;
+	min-height: 50px;
 }
 
 .light-paragraph {
@@ -1707,6 +1770,8 @@ p {
     font-size: 25px;
   }
 
+
+
   .card {
     padding-right: 20px;
     padding-left: 20px;
@@ -1770,6 +1835,11 @@ p {
     text-align: center;
   }
 
+
+  .partners-block {
+	  width:15vw;
+  }
+  
   .footer-grid-01 {
     -ms-grid-columns: 2fr;
     grid-template-columns: 2fr;
